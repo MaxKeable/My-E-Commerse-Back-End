@@ -10,7 +10,7 @@ router.get('/', async (req, res) => {
     res.status(200).json(categories);
   } catch (err) {
     // Handle errors by sending a 500 status with a custom message
-    res.status(500).json({ message: 'not found!' });
+    res.status(404).json({ message: 'not found!' });
   }
 });
 
