@@ -67,7 +67,7 @@ THEN I am able to successfully create, update, and delete data in my database
 [Repository Link 'Click Here'.](https://github.com/MaxKeable/My-E-Commerse-Back-End)
 
 ## Walkthrough Video:
-[Click Here to Watch.](https://drive.google.com/file/d/1CFrbppg7c1kKWVZ9TQvwLpIxw5ljNXdk/view)
+[Click Here to Watch.](https://drive.google.com/file/d/1eag0wZ3NT2LPphbYQh8bjEVNlU5YpenN/view)
 
 ## Screenshots.
 ### Figure 1. Command line interface
